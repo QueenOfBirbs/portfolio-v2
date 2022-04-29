@@ -1,0 +1,150 @@
+/* font-family: 'Fascinate', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Oswald', sans-serif; */
+
+body {
+    background-color: #1E1F21;
+    color: white;
+    margin: auto;
+}
+
+.title {
+    background-color: #1E1F21;
+    color: white;
+}
+
+.jumbotron {
+    background-image: url(./images/wijsjmdpuxi71.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+    border-style: double;
+    border-color: #feae8a;
+    border-width: 15px;
+    padding: 15px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+}
+
+#name {
+    border-color: #e83335;
+    width: auto;
+    height: auto;
+}
+
+#contact {
+    border-color: #81877b;
+}
+
+#work {
+    border-color: #f07c8c
+}
+
+.title {
+    font-family: 'Fascinate', cursive;
+}
+
+li {
+    font-family: 'Fascinate', cursive;
+}
+
+p {
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.card {
+    background-color: #1E1F21;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+/* link effects */
+a,
+a:link {
+    color: #d494a0;
+}
+
+a:hover,
+a:active {
+    color: #81877b;
+}
+
+a.title,
+a.title:link {
+    color: #e3ddbf;
+    text-decoration: none;
+}
+
+a.title:hover,
+a.title:active {
+    color: #ff5a61;
+    text-decoration: none;
+}
+
+/* strikeout hover */
+/* https://codepen.io/tsimenis/pen/BKdENX */
+li {
+    position: relative;
+    display: block;
+    cursor: pointer;
+}
+
+li:before,
+li:after {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 1px;
+    top: 50%;
+    margin-top: -0.5px;
+    background: #fff;
+}
+
+li:before {
+    left: -2.5px;
+}
+
+li:after {
+    right: 2.5px;
+    background: #fff;
+    transition: width 0.8s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+li:hover:before {
+    background: #fff;
+    width: 100%;
+    transition: width 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+li:hover:after {
+    background: transparent;
+    width: 100%;
+    transition: 0s;
+}
+
+/* fancy hover border on cards */
+/* https://getcssscan.com/css-box-shadow-examples*/
+#top-card:hover {
+    box-shadow: #C92B1F 0px 5px, #a52a21 0px 10px, #76251F 0px 15px;
+}
+
+#left-card-1:hover {
+    box-shadow: #678CF6 5px 5px, #556694 10px 10px, #334370 15px 15px;
+}
+
+#left-card-2:hover {
+    box-shadow: #feae8a 5px 5px, #DA8058 10px 10px, #C26339 15px 15px;
+}
+
+#right-card-1:hover {
+    box-shadow: #feae8a 5px 5px, #DA8058 10px 10px, #C26339 15px 15px;
+}
+
+#right-card-2:hover {
+    box-shadow: #678CF6 5px 5px, #556694 10px 10px, #334370 15px 15px;
+}
