@@ -1,4 +1,5 @@
-so for some reason github hates me on this particular project and keeps displaying the read.me instead of the actual html so here's the budget version so i don't go mental from trying to fix it:
+so for some reason github hates me on this particular project and keeps displaying the read.me 
+instead of the actual html so here's the budget version so i don't go mental from trying to fix it:
 
 DIFFERENCES FROM V1:
 - it's even prettier
@@ -8,5 +9,8 @@ DIFFERENCES FROM V1:
 - added links to social media and such
 
 WHAT I DIDN'T PUT:
-- my face/photo (as you can imagine, my name already limits my hiring prospects bc people suck, so i don't put my piercing/weird hair on display to ruin my chances more; this they have to worry about my skills and realize their biases were BS when they see me in an interview lol)
-- a resume (mine is retail based and i have no clue how a tech one is supposed to be written, i'm just gonna do it after the course so i don't miss anything bc that's easier)
+- my face/photo (as you can imagine, my name already limits my hiring prospects bc people suck, 
+so i don't put my piercing/weird hair on display to ruin my chances more; 
+this they have to worry about my skills and realize their biases were BS when they see me in an interview lol)
+- a resume (mine is retail based and i have no clue how a tech one is supposed to be written, 
+i'm just gonna do it after the course so i don't miss anything bc that's easier)
