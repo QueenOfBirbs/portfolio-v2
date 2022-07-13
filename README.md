@@ -19,14 +19,14 @@ This is the second version of my portfolio and currently not in use. The changes
 
 ## Installation
 
-To run this application make sure to copy the files and run npm install to have all of the correct dependencies.
+To run this application locally make sure to copy the files and run npm install to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
 
 ## Usage
 
+This is largely for personal use though feel free to look around!
 Here is a screenshot of the application:
 
-Color Mode:
-<img src="./src/images/theme-pics/color-mode.png">
+<img src="./images/portfolio.png">
 
 
 ## Contributing
