@@ -23,7 +23,7 @@ To run this application locally make sure to copy the files and run npm install 
 
 ## Usage
 
-This is largely for personal use though feel free to look around!
+This is largely for personal use though feel free to look around! Bootstrap, HTML, and CSS were used in this project. Made in May 2022.
 Here is a screenshot of the application:
 
 <img src="./images/portfolio.png">
