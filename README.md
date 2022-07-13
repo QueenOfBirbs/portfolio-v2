@@ -6,7 +6,7 @@ Here is a link to the deployed application on Github:
 
 https://queenofbirbs.github.io/portfolio-v2/
 
-This is the second version of my portfolio and currently not in use. The changes from my first portfolio are mainly that this one uses Bootstrap and more complex CSS styling. Pictures of the finihsed app are all included in the images folder!
+This is the second version of my portfolio and currently not in use. The changes from my first portfolio are mainly that this one uses Bootstrap and more complex CSS styling. Pictures of the finished app are all included in the images folder!
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
